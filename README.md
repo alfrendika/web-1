@@ -47,3 +47,10 @@ Elemen gambar (img, atribut src dan alt)
 Elemen daftar (ul, ol, li)
 Hyperlink internal antar halaman (a href)
 
+Hasil dari coding
+<img width="1917" height="1142" alt="Cuplikan layar 2026-09-27 100825" src="https://github.com/user-attachments/assets/2442580f-692f-40b0-b6f2-a48d971b68b4" />
+<img width="1917" height="1130" alt="Cuplikan layar 2026-09-27 100840" src="https://github.com/user-attachments/assets/6874b7d0-1801-4a9d-b573-21eceaeb4bdf" />
+<img width="1917" height="1142" alt="Cuplikan layar 2026-09-27 100904" src="https://github.com/user-attachments/assets/f7b283f9-0afe-4587-8e4a-a2987ad69c3b" />
+
+
+
